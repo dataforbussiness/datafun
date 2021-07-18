@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on hugonews example site</title>
-    <link>https://example.com/tags/</link>
+    <link>https://dataforbussiness.github.io/datafun/tags/</link>
     <description>Recent content in Tags on hugonews example site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Nov 2019 21:51:11 +0200</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Nov 2019 21:51:11 +0200</lastBuildDate><atom:link href="https://dataforbussiness.github.io/datafun/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo</title>
-      <link>https://example.com/tags/hugo/</link>
+      <link>https://dataforbussiness.github.io/datafun/tags/hugo/</link>
       <pubDate>Mon, 04 Nov 2019 21:51:11 +0200</pubDate>
       
-      <guid>https://example.com/tags/hugo/</guid>
+      <guid>https://dataforbussiness.github.io/datafun/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>twitter</title>
-      <link>https://example.com/tags/twitter/</link>
+      <link>https://dataforbussiness.github.io/datafun/tags/twitter/</link>
       <pubDate>Mon, 04 Nov 2019 21:51:11 +0200</pubDate>
       
-      <guid>https://example.com/tags/twitter/</guid>
+      <guid>https://dataforbussiness.github.io/datafun/tags/twitter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>https://example.com/tags/github/</link>
+      <link>https://dataforbussiness.github.io/datafun/tags/github/</link>
       <pubDate>Mon, 04 Nov 2019 21:51:07 +0200</pubDate>
       
-      <guid>https://example.com/tags/github/</guid>
+      <guid>https://dataforbussiness.github.io/datafun/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>source code</title>
-      <link>https://example.com/tags/source-code/</link>
+      <link>https://dataforbussiness.github.io/datafun/tags/source-code/</link>
       <pubDate>Mon, 04 Nov 2019 21:51:07 +0200</pubDate>
       
-      <guid>https://example.com/tags/source-code/</guid>
+      <guid>https://dataforbussiness.github.io/datafun/tags/source-code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>documentation</title>
-      <link>https://example.com/tags/documentation/</link>
+      <link>https://dataforbussiness.github.io/datafun/tags/documentation/</link>
       <pubDate>Mon, 04 Nov 2019 21:51:03 +0200</pubDate>
       
-      <guid>https://example.com/tags/documentation/</guid>
+      <guid>https://dataforbussiness.github.io/datafun/tags/documentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reference</title>
-      <link>https://example.com/tags/reference/</link>
+      <link>https://dataforbussiness.github.io/datafun/tags/reference/</link>
       <pubDate>Mon, 04 Nov 2019 21:51:03 +0200</pubDate>
       
-      <guid>https://example.com/tags/reference/</guid>
+      <guid>https://dataforbussiness.github.io/datafun/tags/reference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>community</title>
-      <link>https://example.com/tags/community/</link>
+      <link>https://dataforbussiness.github.io/datafun/tags/community/</link>
       <pubDate>Mon, 04 Nov 2019 21:50:41 +0200</pubDate>
       
-      <guid>https://example.com/tags/community/</guid>
+      <guid>https://dataforbussiness.github.io/datafun/tags/community/</guid>
       <description></description>
     </item>
     
     <item>
       <title>forum</title>
-      <link>https://example.com/tags/forum/</link>
+      <link>https://dataforbussiness.github.io/datafun/tags/forum/</link>
       <pubDate>Mon, 04 Nov 2019 21:50:41 +0200</pubDate>
       
-      <guid>https://example.com/tags/forum/</guid>
+      <guid>https://dataforbussiness.github.io/datafun/tags/forum/</guid>
       <description></description>
     </item>
     
