@@ -2,66 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dataforbussiness.github.io/datafun/tags/hugo/</loc>
-    <lastmod>2019-11-04T21:51:11+02:00</lastmod>
+    <loc>https://example.com/</loc>
+    <lastmod>2021-07-24T15:00:07-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/items/gohugo-twitter/</loc>
-    <lastmod>2019-11-04T21:51:11+02:00</lastmod>
+    <loc>https://example.com/post/chapter-1/</loc>
+    <lastmod>2021-07-24T15:00:07-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/</loc>
-    <lastmod>2019-11-04T21:51:11+02:00</lastmod>
+    <loc>https://example.com/tags/scene/</loc>
+    <lastmod>2021-07-24T15:00:07-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/items/</loc>
-    <lastmod>2019-11-04T21:51:11+02:00</lastmod>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2021-07-24T15:00:07-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/sites/</loc>
-    <lastmod>2019-11-04T21:51:11+02:00</lastmod>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2021-07-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/tags/</loc>
-    <lastmod>2019-11-04T21:51:11+02:00</lastmod>
+    <loc>https://example.com/post/chapter-2/</loc>
+    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/tags/twitter/</loc>
-    <lastmod>2019-11-04T21:51:11+02:00</lastmod>
+    <loc>https://example.com/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/sites/twitter.com/</loc>
-    <lastmod>2019-11-04T21:51:11+02:00</lastmod>
+    <loc>https://example.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/tags/github/</loc>
-    <lastmod>2019-11-04T21:51:07+02:00</lastmod>
-  </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/sites/github.com/</loc>
-    <lastmod>2019-11-04T21:51:07+02:00</lastmod>
-  </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/items/gohugo-github/</loc>
-    <lastmod>2019-11-04T21:51:07+02:00</lastmod>
-  </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/tags/source-code/</loc>
-    <lastmod>2019-11-04T21:51:07+02:00</lastmod>
-  </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/tags/documentation/</loc>
-    <lastmod>2019-11-04T21:51:03+02:00</lastmod>
-  </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/sites/gohugo.io/</loc>
-    <lastmod>2019-11-04T21:51:03+02:00</lastmod>
-  </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/items/gohugo-documentation/</loc>
-    <lastmod>2019-11-04T21:51:03+02:00</lastmod>
-  </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/tags/reference/</loc>
-    <lastmod>2019-11-04T21:51:03+02:00</lastmod>
-  </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/tags/community/</loc>
-    <lastmod>2019-11-04T21:50:41+02:00</lastmod>
-  </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/sites/discourse.gohugo.io/</loc>
-    <lastmod>2019-11-04T21:50:41+02:00</lastmod>
-  </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/tags/forum/</loc>
-    <lastmod>2019-11-04T21:50:41+02:00</lastmod>
-  </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/items/gohugo-discourse/</loc>
-    <lastmod>2019-11-04T21:50:41+02:00</lastmod>
-  </url><url>
-    <loc>https://dataforbussiness.github.io/datafun/categories/</loc>
+    <loc>https://example.com/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

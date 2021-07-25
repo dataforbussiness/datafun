@@ -1,47 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugonews example site</title>
-    <link>https://dataforbussiness.github.io/datafun/</link>
-    <description>Recent content on hugonews example site</description>
+    <title>Hello World! on Data For Bussiness</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Hello World! on Data For Bussiness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Nov 2019 21:51:11 +0200</lastBuildDate><atom:link href="https://dataforbussiness.github.io/datafun/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jul 2021 15:00:07 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo Twitter Account</title>
-      <link>https://dataforbussiness.github.io/datafun/items/gohugo-twitter/</link>
-      <pubDate>Mon, 04 Nov 2019 21:51:11 +0200</pubDate>
+      <title>Introduction To Databases</title>
+      <link>https://example.com/post/chapter-1/</link>
+      <pubDate>Sat, 24 Jul 2021 15:00:07 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/datafun/items/gohugo-twitter/</guid>
-      <description> Reminder: This Twitter account is not actively maintained for questions. All questions should be posted on https://discourse.gohugo.io
- </description>
+      <guid>https://example.com/post/chapter-1/</guid>
+      <description>Introduction
+A database, in the most general sense, is an organized collection of data. More specifically, a database is an electronic system that allows data to be easily accessed, manipulated and updated.
+What are Databases?
+A database is an organized collection of data, generally stored and accessed electronically from a computer system. It supports the storage and manipulation of data.
+In other words, databases are used by an organization as a method of storing, managing and retrieving information.</description>
     </item>
     
     <item>
-      <title>Hugo Github</title>
-      <link>https://dataforbussiness.github.io/datafun/items/gohugo-github/</link>
-      <pubDate>Mon, 04 Nov 2019 21:51:07 +0200</pubDate>
+      <title>Introduction Of MongoDB</title>
+      <link>https://example.com/post/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/datafun/items/gohugo-github/</guid>
-      <description> hugo is a cross-platform static site generator developed in Go. it takes as input markdown files and compiles them into HTML files that can then be hosted pretty much anywhere hugo is flexible but also fast. very fast.  </description>
+      <guid>https://example.com/post/chapter-2/</guid>
+      <description>There are some key points of using Mongo DB. These are as follows,
+Documents In Mongo Db we are using Documents instead of Tables as we are working in SQL. And these Documents are structured in BSON which is most identical to the web language JSON.
+NoSQL It is NoSQL or Non-Relational database. The main difference when compared to SQL Database is you are not able to use joins to connect your database tables; however, we can use references to link between your various Documents</description>
     </item>
     
     <item>
-      <title>Hugo Documentation Website</title>
-      <link>https://dataforbussiness.github.io/datafun/items/gohugo-documentation/</link>
-      <pubDate>Mon, 04 Nov 2019 21:51:03 +0200</pubDate>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dataforbussiness.github.io/datafun/items/gohugo-documentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo Discourse Forum</title>
-      <link>https://dataforbussiness.github.io/datafun/items/gohugo-discourse/</link>
-      <pubDate>Mon, 04 Nov 2019 21:50:41 +0200</pubDate>
-      
-      <guid>https://dataforbussiness.github.io/datafun/items/gohugo-discourse/</guid>
-      <description></description>
+      <guid>https://example.com/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     YouTube: https://www.youtube.com/channel/UC_UBIhlTcRysn538I6oxvpQ/   Gmail: lamhoangtriet@gmail.com/   Twitter: https://twitter.com/lamtriet5/    </description>
     </item>
     
   </channel>
